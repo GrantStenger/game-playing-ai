@@ -3,7 +3,7 @@
 - Perfect Information
 - Simple state representation
 
-Tic-tac-toe currently unbeatable
+This tic-tac-toe AI is currently unbeatable.
 
 To Do's: 
 * Implement MiniMax 
