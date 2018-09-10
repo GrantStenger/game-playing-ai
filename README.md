@@ -1,7 +1,9 @@
 # Building game-playing AI.
-## Comptetative Zero-Sum Games
-## Perfect Information
-## Simple state representation
+- Comptetative Zero-Sum Games
+- Perfect Information
+- Simple state representation
+
+Tic-tac-toe currently unbeatable
 
 To Do's: 
 * Implement MiniMax 
